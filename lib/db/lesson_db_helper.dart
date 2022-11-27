@@ -26,11 +26,6 @@ class LessonDbHelper {
     return lessonDb;
   }
 
-  //! Remove
-  // void printRed(var data) {
-  //   print("\x1B[31m$data\x1B[0m");
-  // }
-
   void createDb(Database db, int version) async {
     await db.execute("""
       Create Table $lessonTable (

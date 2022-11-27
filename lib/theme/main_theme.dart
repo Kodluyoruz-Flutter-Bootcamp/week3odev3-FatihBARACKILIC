@@ -4,7 +4,6 @@ import 'package:school_app/colors/colors.dart';
 ThemeData mainTheme() {
   return ThemeData(
     primaryColor: Colors.deepPurple,
-    // scaffoldBackgroundColor: const Color.fromRGBO(13, 17, 23, 1),
     scaffoldBackgroundColor: darkColor,
     brightness: Brightness.dark,
     appBarTheme: const AppBarTheme(

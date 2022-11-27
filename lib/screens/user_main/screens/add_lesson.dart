@@ -61,13 +61,6 @@ class _AddLessonState extends State<AddLesson> {
                   textScaleFactor: 5,
                 ),
                 Padding(
-                  // padding: EdgeInsets.fromLTRB(
-                  //   MediaQuery.of(context).size.width * .075,
-                  //   8,
-                  //   MediaQuery.of(context).size.width * .075,
-                  //   0,
-                  // ),
-
                   padding: const EdgeInsets.only(top: 8),
                   child: TextField(
                     controller: _controllerLesson,
@@ -79,12 +72,6 @@ class _AddLessonState extends State<AddLesson> {
                   ),
                 ),
                 Padding(
-                  // padding: EdgeInsets.fromLTRB(
-                  //   MediaQuery.of(context).size.width * .075,
-                  //   8,
-                  //   MediaQuery.of(context).size.width * .075,
-                  //   0,
-                  // ),
                   padding: const EdgeInsets.only(top: 8),
                   child: TextField(
                     controller: _controllerLessonCredit,
@@ -97,12 +84,6 @@ class _AddLessonState extends State<AddLesson> {
                   ),
                 ),
                 Padding(
-                  // padding: EdgeInsets.fromLTRB(
-                  //   MediaQuery.of(context).size.width * .075,
-                  //   8,
-                  //   MediaQuery.of(context).size.width * .075,
-                  //   0,
-                  // ),
                   padding: const EdgeInsets.only(top: 8),
                   child: SizedBox(
                     width: double.infinity,

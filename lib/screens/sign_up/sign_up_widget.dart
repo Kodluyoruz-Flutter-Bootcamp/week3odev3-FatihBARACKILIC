@@ -169,7 +169,7 @@ class _SignUpWidgetState extends State<SignUpWidget> {
                       backgroundColor:
                           MaterialStatePropertyAll(Colors.red.shade800),
                     ),
-                    child: const Text("Clear"),
+                    child: const Text("Clear DB"),
                   ),
                 ),
               ),
