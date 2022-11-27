@@ -1,15 +1,17 @@
-# Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+# Week - 3
 
-# Homework 
-```Ödev```
+## Homework
 
+```Öğrenci Sistemi```
 
 ## Homework Description
 
-```Ödev Açıklaması ```
+```Kullanıcıların kayıt olup login yapabilecekleri. Ders ekleyip diğer kullanıcıların derslerini görebilecekleri bir sistem.```
 
+## Project Pictures
+
+[Resimler](images.md)
 
 ## Author
 
-```Ödevi yapan```
+```Fatih BARAÇKILIÇ```
